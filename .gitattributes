@@ -11,6 +11,15 @@
 *.php    text eol=lf
 *.md    text eol=lf
 *.json    text eol=lf
+*.csv    text eol=lf
+*.txt    text eol=lf
+*.java    text eol=lf
+*.g4    text eol=lf
+*.shar    text eol=lf
+*.ypp    text eol=lf
+*.jison    text eol=lf
+*.yaml    text eol=lf
+*.yml    text eol=lf
 
 *.csproj text merge=union eol=lf
 *.sln    text merge=union eol=crlf
