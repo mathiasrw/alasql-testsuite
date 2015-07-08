@@ -8,7 +8,7 @@ To minimize the size of the package all folders not part of the main development
 
 [sqllogictest has been moved](http://github.com/mathiasrw/) to its own repo. All other are testsuites are in this repo. 
 
-(Regression testing)[https://github.com/agershun/alasql/tree/master/test] is still part of [the original repo](https://github.com/agershun/alasql) 
+Regression tests are still part of [the original repo](https://github.com/agershun/alasql/tree/master/test) 
 
 
 Todo: 
